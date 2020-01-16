@@ -9,13 +9,13 @@ Your notes should contain a title and body
 
 ###Syntax##############################################################################
 
-Add a note: node app.js add --title="<title of your note>" --body="<body of your note>"
+Add a note: node app.js add --title="title of your note" --body="body of your note"
 
-Remove a note: node app.js remove --title="<title of the note to remove>"
+Remove a note: node app.js remove --title="title of the note to remove"
 
 List all the notes: node app.js list
 
-Read a particular note: node app.js read --title="<title of the note to read>"
+Read a particular note: node app.js read --title="title of the note to read"
 ########################################################################################
 
 

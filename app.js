@@ -1,23 +1,6 @@
 const fs = require("fs");
-// const add = require("./utils.js")
 const notes = require("./notes.js");
 const yargs = require("yargs");
-// const validator = require("validator")
-// const chalk = require("chalk")
-
-// console.log(validator.isEmail("abiabbj@gmail.com"));
-
-// const error  = chalk.bold.red;
-// const warning = chalk.keyword('orange');
-
-// console.log(error.inverse("Error!!!"));
-// console.log(warning("Warning!!!"));
-
-// const command = process.argv[2];
-
-// if(command === 'add') {
-//     console.log("adding notes");
-// }
 
 //Customize yargs version
 
